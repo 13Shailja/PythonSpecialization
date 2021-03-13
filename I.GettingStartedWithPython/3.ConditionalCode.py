@@ -56,26 +56,3 @@ else:
     elif(scoreFloat >= 0.7): print("C")
     elif(scoreFloat >= 0.6): print("D")
     elif(scoreFloat < 0.6): print("F")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
