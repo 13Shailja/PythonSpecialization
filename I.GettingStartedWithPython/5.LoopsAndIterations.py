@@ -31,23 +31,3 @@ while True:
 
 print("Maximum is", largest)
 print("Minimum is", smallest)
-
-
-
-
-# largest = None
-# smallest = None
-# while True:
-#     num = input("Enter a number: ")
-#     if num == "done" : break
-#     print(num)
-
-# print("Maximum", largest)
-
-
-
-
-
-# Invalid input
-# Maximum is 10
-# Minimum is 2
